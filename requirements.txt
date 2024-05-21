@@ -1,2 +1,14 @@
 Flask
 Gunicorn
+base64
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+torch
+torchvision
+scikit-learn
+tqdm
+ipython
+requests
